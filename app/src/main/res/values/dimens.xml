@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <dimen name="drawer_item_text_size">12sp</dimen>
+    <dimen name="drawer_profile_name_text_size">13sp</dimen>
+    <dimen name="drawer_profile_email_text_size">12sp</dimen>
+    <dimen name="text_size_title">11sp</dimen>
+    <dimen name="text_size_desc">10sp</dimen>
+</resources>

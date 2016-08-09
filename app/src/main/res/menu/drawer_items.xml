@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_36dp"
+            android:title="داشبورد" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account_box_black_36dp"
+            android:title="حساب کاربری" />
+        <item
+            android:id="@+id/nav_membership"
+            android:icon="@drawable/ic_card_membership_black_36dp"
+            android:title="حساب کاربری" />
+        <item
+            android:id="@+id/nav_redeem"
+            android:icon="@drawable/ic_redeem_black_36dp"
+            android:title="خروج" />
+    </group>
+
+</menu>
